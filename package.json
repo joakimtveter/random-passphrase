@@ -1,0 +1,12 @@
+{
+  "name": "passphrase",
+  "version": "1.0.0",
+  "main": "passphrase.js",
+  "type": "module",
+  "scripts": {
+    "start": "node passphrase.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
